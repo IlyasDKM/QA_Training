@@ -1,0 +1,8 @@
+Пароль                                        Длина                        Категория
+
+12345                                          5                           Ниже диапазона
+mypassword                                     10                          Внутри диапазона
+ThisPasswordIsGood                             18                          Внутри диапазона
+12345678                                       8                           На границе (минимум)
+VeryLongPasswordHere                           20                          На границе (максимум)        
+ThisPasswordIsTooLongForValidation             34                          Выше диапазона
